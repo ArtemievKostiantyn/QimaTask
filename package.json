@@ -1,0 +1,24 @@
+{
+  "name": "quimatask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:run": "cypress run",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtemievKostiantyn/QuimaTask.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtemievKostiantyn/QuimaTask/issues"
+  },
+  "homepage": "https://github.com/ArtemievKostiantyn/QuimaTask#readme",
+  "devDependencies": {
+    "cypress": "^9.1.1",
+    "prettier": "2.5.1"
+  }
+}
